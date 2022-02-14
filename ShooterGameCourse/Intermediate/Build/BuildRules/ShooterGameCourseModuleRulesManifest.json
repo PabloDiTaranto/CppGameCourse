@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\CppGameCourse\\ShooterGameCourse\\Source\\ShooterGameCourse\\ShooterGameCourse.Build.cs",
+		"E:\\CppGameCourse\\ShooterGameCourse\\Source\\ShooterGameCourse.Target.cs",
+		"E:\\CppGameCourse\\ShooterGameCourse\\Source\\ShooterGameCourseEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

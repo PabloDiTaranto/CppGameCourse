@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ShooterGameCourse-0013.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\ShooterGameCourseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\ShooterCharacter.cpp.obj"
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\ShooterGameCourse.cpp.obj"
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\ShooterGameCourseGameModeBase.cpp.obj"
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\ShooterCharacter.gen.cpp.obj"
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\ShooterGameCourse.init.gen.cpp.obj"
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\ShooterGameCourseGameModeBase.gen.cpp.obj"
+"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\Default.rc2.res"
+/OUT:"E:\CppGameCourse\ShooterGameCourse\Intermediate\Build\Win64\UE4Editor\Development\ShooterGameCourse\UE4Editor-ShooterGameCourse-0013.lib"

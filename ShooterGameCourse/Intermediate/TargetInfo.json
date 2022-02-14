@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShooterGameCourse",
+			"Path": "E:\\CppGameCourse\\ShooterGameCourse\\Source\\ShooterGameCourse.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShooterGameCourseEditor",
+			"Path": "E:\\CppGameCourse\\ShooterGameCourse\\Source\\ShooterGameCourseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

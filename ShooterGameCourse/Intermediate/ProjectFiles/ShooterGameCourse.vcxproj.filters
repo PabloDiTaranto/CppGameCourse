@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShooterGameCourse.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{92FB57C2-FCA0-4AAE-A70C-DBBAF5CE5776}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShooterGameCourse.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShooterGameCourseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0BEB870A-E0F3-4A7A-98EA-6219C00850B7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShooterGameCourse">
+      <UniqueIdentifier>{B5C0C915-9A0B-4ECC-A52E-162E84A0F281}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShooterGameCourse\ShooterCharacter.cpp">
+      <Filter>Source\ShooterGameCourse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterGameCourse\ShooterCharacter.h">
+      <Filter>Source\ShooterGameCourse</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ShooterGameCourse\ShooterGameCourse.Build.cs">
+      <Filter>Source\ShooterGameCourse</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShooterGameCourse\ShooterGameCourse.cpp">
+      <Filter>Source\ShooterGameCourse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterGameCourse\ShooterGameCourse.h">
+      <Filter>Source\ShooterGameCourse</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShooterGameCourse\ShooterGameCourseGameModeBase.cpp">
+      <Filter>Source\ShooterGameCourse</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShooterGameCourse\ShooterGameCourseGameModeBase.h">
+      <Filter>Source\ShooterGameCourse</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
