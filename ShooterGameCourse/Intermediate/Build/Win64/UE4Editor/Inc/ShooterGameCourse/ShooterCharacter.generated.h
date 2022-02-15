@@ -58,7 +58,11 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AShooterCharacter)
 
 
-#define ShooterGameCourse_Source_ShooterGameCourse_ShooterCharacter_h_12_PRIVATE_PROPERTY_OFFSET
+#define ShooterGameCourse_Source_ShooterGameCourse_ShooterCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__CameraBoom() { return STRUCT_OFFSET(AShooterCharacter, CameraBoom); } \
+	FORCEINLINE static uint32 __PPO__FollowCamera() { return STRUCT_OFFSET(AShooterCharacter, FollowCamera); }
+
+
 #define ShooterGameCourse_Source_ShooterGameCourse_ShooterCharacter_h_9_PROLOG
 #define ShooterGameCourse_Source_ShooterGameCourse_ShooterCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
